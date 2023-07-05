@@ -1,0 +1,8 @@
+print("I am from Earth.")
+print("I like eating grapes")
+print("My favorite song is 'Believer'(not really)")
+q1 = input("How old are you?")
+q2 = input("What do you like to do?")
+q3 = input("Where do you want to go?")
+print("So you're a", q1 + "-year-old who likes to", q2, "and wants to go to", q3)
+print("Interesting!")
